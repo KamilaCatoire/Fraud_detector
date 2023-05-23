@@ -10,10 +10,10 @@ However, eventhough we managed to build powerful algorithms, the hard thing is n
 
 Our goal as a team of Machine Learning Engineers is to:
 
-   ** Create an fraudulent payment detector using any AI library that you know of.
-   ** Create an infrastructure that ingest real-time payment
-   ** Automatically classify each payment and send back this prediction in real-time to a notification center 
-   
+   > Create an fraudulent payment detector using any AI library that you know of.
+   > Create an infrastructure that ingest real-time payment.
+   > Automatically classify each payment and send back this prediction in real-time to a notification center.
+      
 ## Application structure
 
 ![Capture d’écran du 2023-05-23 11-14-59](https://github.com/KamilaCatoire/Fraud_detector/assets/117351364/43437d62-6a9b-47e2-a615-fe87f0fdb325)
