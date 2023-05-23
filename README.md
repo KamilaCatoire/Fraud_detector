@@ -16,6 +16,7 @@ Our goal as a team of Machine Learning Engineers is to:
    
 ## Application structure
 
+![Capture d’écran du 2023-05-23 11-14-59](https://github.com/KamilaCatoire/Fraud_detector/assets/117351364/43437d62-6a9b-47e2-a615-fe87f0fdb325)
 
 ## Real-time detection video
 
