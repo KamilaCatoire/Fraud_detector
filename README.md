@@ -1,4 +1,9 @@
 # Automatic Fraud Detection Project
+-----------------------------------------------------------------------------------------------------------------------------
+
+*This project is a part of my Jedha Data Lead program certification*
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## Context 📇
 
 Fraud is a huge issue among financial institutions. In the EU in 2019, the European Central Bank estimated that fraudulent credit card transactions amounted more €1 billion! 😮
