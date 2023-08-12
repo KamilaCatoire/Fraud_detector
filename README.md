@@ -26,3 +26,7 @@ Our goal as a team of Machine Learning Engineers is to:
 ## Real-time detection video
 
 [Capture vidéo du 16-05-2023 11:31:25.webm](https://github.com/KamilaCatoire/Fraud_detector/assets/117351364/24f99502-7893-4551-8c12-501bd840d33b)
+
+## Video presentation 
+
+https://share.vidyard.com/watch/iFqNEMzxWx3ntH4YidEASD?
